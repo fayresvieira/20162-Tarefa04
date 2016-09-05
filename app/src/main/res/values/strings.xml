@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarefa04</string>
+
+    <string name="prod1">pneu-pirelli-aro-16-205-55r16-phantom-91w</string>
+    <string name="prod2">tablet-olivett-olipad-8gb-wi-fi-3g-tela-7-android-4.2-processador-dual-core-1.0-ghz-branco</string>
+    <string name="prod3">Samsung Gear VR SM-R322 óculos de realidade virtual em 3D Branco</string>
+
+    <string name="btn2">Cancelar</string>
+    <string name="btn1">Comprar</string>
+
+
+
+</resources>
